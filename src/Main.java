@@ -1,5 +1,5 @@
-public class main {
-    public static void main(String[] args) {
+public class Main {
+    public static void Main(String[] args) {
         int price = 13900;
         int spent = 20;
         int miles = price / spent;
